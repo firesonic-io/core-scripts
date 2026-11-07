@@ -35,4 +35,8 @@ Bug reports and small, focused pull requests are welcome. Please include the Fir
 
 ## License
 
-A license has not yet been selected for this repository. **Public visibility alone does not grant permission to redistribute or modify the code.** Add a `LICENSE` file before offering reusable licensing terms or accepting contributions under those terms.
+The Groovy scripts, semantic validation rules, and tests in this repository are licensed under the [Apache License 2.0](LICENSE).
+
+Copyright © 2026 FireSonic.
+
+This license applies only to the contents of this repository. The FireSonic Integration Platform and Developer SDK are distributed under their own licensing terms.
