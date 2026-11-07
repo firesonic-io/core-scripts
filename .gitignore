@@ -1,0 +1,30 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.lic
+*.license
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+
+# Generated output and logs
+output/
+logs/
+data/
+*.log
+
+# Build and IDE artifacts
+target/
+build/
+.gradle/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+*.class
+.DS_Store
+Thumbs.db
